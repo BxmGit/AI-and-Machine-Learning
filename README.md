@@ -1,6 +1,6 @@
 # AI and Machine Learning Repository
 
-Welcome to my repository dedicated to showcasing a selection of AI and Machine Learning scripts I've developed over time. While not all scripts are currently available for public view—due to their integral role in my startup, chuttr.com
+Welcome to my repository dedicated to showcasing a selection of AI and Machine Learning scripts I've developed over time. Not all scripts are currently available for public view—due to their integral role in my startup, chuttr.com
 
 ## Featured Model: Named Entity Recognition (NER)
 
